@@ -58,7 +58,7 @@ git add -A && git commit -m "Update <skill-name> skill" && git push
 ## Status
 
 - Task 1 classes 1–4: captured and upgraded to Band 8–9
-- Task 2 class 1: captured; further classes expected
+- Task 2 classes 1–2: captured; further classes expected
 - Reading, Listening, Speaking: complete master books
 
 All model answers are for learning patterns — never memorise them in the exam.
