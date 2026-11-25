@@ -24,6 +24,27 @@ P4  Upon closer inspection, it is apparent that [group B / second period].
 
 **Rules:** overview has **no exact figures** · 165–185 words · no bullets · no opinion · no contractions.
 
+### "3 paragraphs or 4?" — clearing up the confusion
+
+Task 1 has **three logical parts**, not a fixed number of physical paragraphs:
+
+| Logical part | What it does |
+|---|---|
+| 1. Introduction | says what the visual shows |
+| 2. Overview | the big picture — the most important part |
+| 3. Body (details) | supports the overview with data |
+
+The **Body is normally split into two paragraphs**, giving **4 physical paragraphs in total**
+(Intro · Overview · Body 1 · Body 2). That is what your teacher wrote in class 1
+("4 paragraphs according to the format"), and what IELTS Liz recommends: *"There are four
+main paragraphs... Body Paragraph 3 (not usual, but occasionally possible)."*
+
+A **3-physical-paragraph version is also valid**: combine Introduction + Overview into one
+paragraph, then keep two body paragraphs. The overview must still start with a clear
+`Overall...` statement so the examiner can find it. IELTS marks **logical organisation and a
+clearly visible overview**, not a fixed paragraph count — writing everything as one block
+would cap Coherence & Cohesion around Band 5.
+
 ---
 
 
