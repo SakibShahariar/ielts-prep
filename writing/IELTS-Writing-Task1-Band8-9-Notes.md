@@ -10,6 +10,7 @@
 - **Part 3** — Class 3 notes: mixed charts (table + pie charts) with Band 8–9 rewrite
 - **Part 4** — Class 4 notes: processes & maps, linkers and change vocabulary
 - **Part 5** — Standalone synonym bank by headword
+- **Part 6** — Lecture-backed Task 1 operating system (Lectures 1–3)
 - **Companion** — `task1-model-answers-practice.md`: full Band 8–9 answers for the three original practice graphs
 - **Companion** — `ielts-writing-linkers-and-synonyms.md`: linkers by location + adjective/adverb synonyms
 - **Companion** — `ielts-writing-lecture1-handout.md`: Mentors Lecture 1 handout, extracted and upgraded
@@ -918,3 +919,72 @@ stages — mix time linkers (`next`, `then`, `subsequently`) with stage verbs (`
 **Note:** the original task images have been supplied, so all figures and features above are
 confirmed. Full Band 8–9 model answers for all three class-4 tasks are in
 `task1-model-answers-practice.md`.
+
+---
+
+# PART 6 — LECTURE-BACKED TASK 1 OPERATING SYSTEM
+
+> Synthesised from Mentors Lectures 1–3 and reconciled with your four class notebooks.
+> This is the "how to execute under exam conditions" layer on top of the language notes.
+
+## The exact instruction you will see
+
+> *You should spend about 20 minutes on this task. Summarise the information by selecting and
+> reporting the main features, and make comparisons where relevant. Write at least 150 words.*
+
+**Reporting, not arguing.** Lecture 3: *Report or Exhibit — NOT justify.* No opinions, no outside
+knowledge, no irrelevant material. Copied wording from the question does not count.
+
+## The four introduction frames (Lecture 1)
+
+1. `The graph shows / illustrates the trends in... between... and...`
+2. `The graph gives / provides / reveals / presents information about (the differences / changes...)`
+3. `The graph compares / contrasts...`
+4. `The graph shows / illustrates how the sales have differed / changed.`
+
+**Always add the unit and period** in the introduction:
+*Figures are given in millions of pounds.* / *over a period of six years, from 1995 to 2000.*
+
+## Data vs trend (Lecture 2) — critical distinction
+
+| | Meaning | Example |
+|---|---|---|
+| **Data** | individual figures | *Sales rose to 500 in January and fell to 400 in February.* |
+| **Trend** | sustained movement over **more than one period** | *Sales rose for three consecutive months.* |
+
+Name the trend in the **overview**; keep individual rises/falls for the **body**. An up-down-up-down
+sequence is not one overall trend.
+
+## Two sentence forms for the same fact (Lecture 2)
+
+| Form | Example |
+|---|---|
+| Noun form | *There was a rapid increase in the number of computers sold.* |
+| Verb form | *The number of computers sold increased rapidly.* |
+
+Pattern: `subject + verb of change + adverb of amount`.
+Alternative with `there`: *From January to February, there was a slight increase in sales.*
+
+**Prepositions:** `from...to` (start → end) · `at` (a point or peak) · `by` (size of change) ·
+`of` (size of change with a noun: *a drop of 8 units*).
+
+## Body discipline (Lecture 3)
+
+- Split the text into **3–4 paragraphs including the introduction** — the standard 4-paragraph
+  layout (Intro · Overview · Body 1 · Body 2) sits inside this range.
+- Divide information into broad groups or trends; **one central topic per body paragraph**.
+- Start each body paragraph with a **topic sentence**; support it with specific data.
+- Detail openers: `Turning to the details...` · `As can be seen from the graph...` ·
+  `At first glance it is clear...`
+- Avoid lists of detail; a single "conclusion" sentence may round off the report, but the
+  **clear overview** is what earns Band 7+ — keep it near the top with no exact figures.
+
+## Exam-day algorithm (classes + lectures combined)
+
+1. **Analyse (3 min):** task type, units, period, 2–3 key features, the overview.
+2. **Intro:** paraphrase + period + units.
+3. **Overview:** overall trend/extremes/start-end — **no figures**.
+4. **Body 1:** first group/trend — topic sentence → data → comparison → result.
+5. **Body 2:** second group/trend — same pattern, varied vocabulary.
+6. **Check (3 min):** word count 165–185 · overview present and figure-free · all series covered ·
+   plurals · articles · prepositions · no bullets · no opinion.

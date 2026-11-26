@@ -5,6 +5,7 @@
 > Transcribed and upgraded against the official Band 8–9 descriptors. The teacher's essay
 > fragments teach good structure but contain grammar and factual slips — a full corrected
 > Band 8–9 model is given below.
+> **Also includes:** a final lecture-backed essay operating system (Lectures 4–5).
 
 ---
 
@@ -502,3 +503,81 @@ start driving, as it enables young adults to become responsible drivers.
 ---
 
 > **Companion:** `ielts-writing-lecture5-handout.md` — Mentors Lecture 5 handout: causes/effects, comparison/contrast, double questions, editing checklist and language patterns (extracted and upgraded).
+
+---
+
+# PART 4 — LECTURE-BACKED TASK 2 OPERATING SYSTEM
+
+> Synthesised from Mentors Lectures 4–5. This is the execution layer on top of your class models.
+
+## The five task types (Lecture 4)
+
+| Type | Question ending | Requirement |
+|---|---|---|
+| Argument | *To what extent do you agree or disagree?* | Clear position; persuade with reasons |
+| Cause and effect | *Why? What effect...?* | Causes + effects; no solutions unless asked |
+| Discussion | *Discuss both views and give your opinion* | Both views in separate paragraphs + your opinion |
+| Advantages/disadvantages | *What are the advantages and disadvantages?* | Both sides, no opinion needed |
+| Double question | *Why? Is this positive or negative?* | **Both** questions, equal weight |
+
+Same topic → different tasks. Decode the question stem before writing.
+
+## Thesis statement rules (Lecture 4)
+
+- One sentence at the **end of the introduction**; says what the essay is about, which points form
+  the body, and your position.
+- **No rhetorical questions.** Be brief and decisive. Give reasons where possible.
+- **Never write an outline sentence** — *"This essay would like to explore reasons for this in
+  more detail"* is clichéd and memorised; examiners are trained to spot it.
+- Good model (corrected): *As rickshaws are slow, are a major cause of traffic congestion, and
+  cannot meet long-distance travel needs, I believe they should be banned from Dhaka City.*
+
+## Counter-argument (Lectures 4–5)
+
+Acknowledge the opposing view, then refute it — typically with `although` / `however`. This shows
+you evaluated both sides and makes your verdict stronger, not weaker. One counter paragraph is
+enough in a 4-paragraph essay.
+
+## Three paraphrasing techniques (Lecture 4)
+
+1. **Synonyms** — watch strength: `interesting` ≠ `fascinating`.
+2. **Word forms** — *Facebook is an **invasion** of privacy* → *Facebook has **invaded** our privacy*.
+3. **Clause reordering** — *It is difficult to say whether the economy will improve* →
+   *Whether the economy will improve is difficult to say.*
+
+Copied words from the prompt do **not** count towards the word count.
+
+## Cause/effect and double-question rules (Lecture 5)
+
+- Causes/effects: discuss causes and effects; **do not add solutions** unless asked.
+- Causes/solutions: discuss causes and solutions; **omit effects**.
+- Double question: both questions need **equal importance and space** — missing one caps Task
+  Response at Band 5.
+
+## Final 5-minute editing checklist (Lecture 5)
+
+1. Consistent tenses and subject–verb agreement.
+2. Word formation; `a/an`, `the`, prepositions.
+3. Range of sentence structures.
+4. Appropriate vocabulary.
+5. Accurate spelling.
+6. Topic sentence for each paragraph; all points related to it.
+7. Connectives used effectively and in the right place.
+8. Each paragraph adequately developed.
+9. Enough detail and sufficient examples/facts.
+10. A definite point of view developed.
+11. Every paragraph helps address the task.
+
+**Band 5 diagnostic from the handout:** ideas can be present and still score only 5.0 if the third
+paragraph is short and confusing, linkers are misplaced (`However`, `In addition`), referencing is
+loose (`they`, `it`), vocabulary is basic and grammar has repeated article errors (*a important*).
+
+## Language bank (Lecture 5)
+
+- **Views:** `I firmly believe that...` · `People argue that...` · `It is generally accepted that...`
+- **Refuting:** `I am unconvinced that...` · `There is little evidence to support the view that...`
+- **Defining:** `By... I mean...` · `In other words,...` · `To be more precise,...`
+- **Support:** `For instance,...` · `Indeed,...` · `In my experience,...` · `Let me illustrate...`
+- **Comparison:** `compared with` · `in the same way` · `in contrast to` · `otherwise`
+- **Cause/effect:** `accordingly` · `as a result` · `consequently` · `hence` · `therefore` · `thus`
+- **Concluding:** `which shows that...` · `we may infer that...` · `it follows that...`
