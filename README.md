@@ -26,6 +26,7 @@ ielts-prep/
 - `ielts-writing-lecture2-handout.md` — Mentors Lecture 2 handout, line graphs/tables/data language
 - `ielts-writing-lecture3-handout.md` — Mentors Lecture 3 handout, processes/maps/body language
 - `ielts-writing-lecture4-handout.md` — Mentors Lecture 4 handout, Task 2 types/band descriptors/thesis
+- `ielts-writing-lecture5-handout.md` — Mentors Lecture 5 handout, causes/effects, double questions, editing/language
 - `archive/` — older duplicate per-class files, kept for reference
 
 ### reading/, listening/, speaking/

@@ -498,3 +498,7 @@ start driving, as it enables young adults to become responsible drivers.
 ---
 
 > **Companion:** `ielts-writing-lecture4-handout.md` — Mentors Lecture 4 handout: Task 2 question types, band descriptors, thesis statements and essay structures (extracted and upgraded).
+
+---
+
+> **Companion:** `ielts-writing-lecture5-handout.md` — Mentors Lecture 5 handout: causes/effects, comparison/contrast, double questions, editing checklist and language patterns (extracted and upgraded).
