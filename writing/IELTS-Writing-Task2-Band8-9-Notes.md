@@ -494,3 +494,7 @@ start driving, as it enables young adults to become responsible drivers.
 - [ ] Majority of sentences error-free — no `some believes`, `letting... to drive`, fragments
 - [ ] No meta-commentary lines
 - [ ] 265–285 words, 4 paragraphs
+
+---
+
+> **Companion:** `ielts-writing-lecture4-handout.md` — Mentors Lecture 4 handout: Task 2 question types, band descriptors, thesis statements and essay structures (extracted and upgraded).
