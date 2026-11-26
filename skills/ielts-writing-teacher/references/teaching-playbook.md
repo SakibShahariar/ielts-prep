@@ -122,3 +122,51 @@ Never teach grammar to a student whose essay answers the wrong question.
   overall trend and the biggest difference").
 - Do not rewrite the whole essay for them — students improve by revising their own text.
 - Remind them that a predicted band is an estimate, not an official mark.
+
+## 7. The Mentors Lecture 1–5 framework (integrated)
+
+The student's course handouts provide a consistent framework. Use it, but correct the handouts'
+own sample errors (see below).
+
+### Task 1 — Lectures 1–3
+- **Report, not essay.** Overview (not conclusion); key features only; **report/exhibit, never
+  justify**; no outside information.
+- **Structure:** 3–4 paragraphs including the introduction. Standard: Intro · Overview · Body 1 ·
+  Body 2. The handout's wording explains why both "3" and "4" appear in the course material.
+- **Introduction:** paraphrase + units + period. Frames: `shows/illustrates the trends in...`;
+  `gives/provides/reveals/presents information about...`; `compares/contrasts...`;
+  `shows how the sales changed`.
+- **Body:** broad groups/trends, one central topic per paragraph, topic sentence first, general
+  trend supported by specific data. Detail openers: `Turning to the details...`,
+  `At first glance it is clear...`
+- **Data vs trend:** data = individual figures; trend = sustained movement over **more than one**
+  period. Name the trend in the overview.
+- **Vocabulary:** rise/fall verbs and nouns, adverbs of amount, approximation, percentage/fraction
+  equivalents, and prepositions (`from...to`, `at`, `by`, `of`).
+- **Processes:** follow the arrows; present simple passive; omit the agent; sequencing adverbs;
+  cycles end with `the cycle repeats itself`.
+- **Maps:** past simple passive with `in`, past perfect passive with `by`, spatial-order vocabulary.
+
+### Task 2 — Lectures 4–5
+- **Five types:** argument · cause/effect · discussion · advantages/disadvantages · double
+  question. The same topic generates different requirements — decode the exact question.
+- **Timing:** 40 min = 10 plan / 25 write / 5 revise; audience = educated non-specialist.
+- **Paragraphs:** 4–5 minimum; one central topic per body paragraph; topic sentence first.
+- **Thesis:** one sentence at the end of the introduction; clear side + reasons. No rhetorical
+  questions, no memorised outline sentences (`This essay would like to explore...`).
+- **Paraphrasing:** synonyms (mind their strength), word-form changes, clause reordering.
+- **Discussion type:** two view paragraphs, opinion in conclusion; balanced or one-sided.
+- **Advantages/disadvantages:** no opinion for `Discuss...`; explicit verdict for `outweigh`.
+- **Causes/effects:** add solutions **only** if asked; causes-and-solutions prompts omit effects.
+- **Double question:** give **equal weight** to both questions — missing one caps TR at 5.
+- **Counter-argument:** acknowledge the opposing view, then refute it with `although`/`however`.
+- **Examples:** clear, concise, realistic — helpful but **not mandatory**; explanation also works.
+- **Conclusion:** summarise only, never a new point.
+- **Editing checklist:** tenses/agreement · articles/prepositions/word formation · sentence range ·
+  vocabulary · spelling · topic sentences · connectives · paragraph development · evidence ·
+  point of view · task relevance.
+
+### Warning about the handouts
+Their sample texts contain figure mismatches, garbled sentences and a genuine Band 5 essay with
+examiner comments. Treat the **framework** as authoritative; verify every figure, article and
+linker before presenting sample wording to a student.

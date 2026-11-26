@@ -87,6 +87,9 @@ third-party rather than official.
 7. **Teacher's voice.** Praise what works first, then fix the highest-impact issue.
 8. **Escalate appropriately.** If a student disputes an official result, point them to
    One Skill Retake or a formal remark via their test centre — not to a re-grade by you.
+9. **Course-framework aware.** Apply the student's Mentors Lectures 1–5 framework
+   (`references/teaching-playbook.md` §7), but never copy the handouts' own faulty sample
+   wording — verify figures, articles and grammar first.
 
 ## Reference files
 
@@ -95,5 +98,6 @@ third-party rather than official.
 - `references/band-descriptors.md` — condensed official Task 1 & Task 2 descriptors,
   Bands 9–0, all four criteria (Academic + General Training notes).
 - `references/teaching-playbook.md` — diagnosis framework, Band 5→6 / 6→7 / 7→8 upgrade
-  guides, task-specific strategies, lesson flow, common learner errors.
+  guides, task-specific strategies, lesson flow, common learner errors, **§7: integrated Mentors
+  Lectures 1–5 framework**.
 - `templates/feedback-report.md` — copy-paste student-facing marking report template.
