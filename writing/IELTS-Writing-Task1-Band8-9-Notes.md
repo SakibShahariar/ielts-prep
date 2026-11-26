@@ -12,6 +12,7 @@
 - **Part 5** — Standalone synonym bank by headword
 - **Companion** — `task1-model-answers-practice.md`: full Band 8–9 answers for the three original practice graphs
 - **Companion** — `ielts-writing-linkers-and-synonyms.md`: linkers by location + adjective/adverb synonyms
+- **Companion** — `ielts-writing-lecture1-handout.md`: Mentors Lecture 1 handout, extracted and upgraded
 
 ---
 

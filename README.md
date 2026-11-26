@@ -22,6 +22,7 @@ ielts-prep/
 - `task1-templates-by-type.md` — one fixed frame plus type-specific language
 - `ielts-writing-linkers-and-synonyms.md` — linkers and adjective/adverb tables
 - `task1-model-answers-practice.md` — full Band 8–9 model essays
+- `ielts-writing-lecture1-handout.md` — Mentors Lecture 1 handout, extracted and upgraded
 - `archive/` — older duplicate per-class files, kept for reference
 
 ### reading/, listening/, speaking/
