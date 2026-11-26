@@ -24,6 +24,7 @@ ielts-prep/
 - `task1-model-answers-practice.md` — full Band 8–9 model essays
 - `ielts-writing-lecture1-handout.md` — Mentors Lecture 1 handout, extracted and upgraded
 - `ielts-writing-lecture2-handout.md` — Mentors Lecture 2 handout, line graphs/tables/data language
+- `ielts-writing-lecture3-handout.md` — Mentors Lecture 3 handout, processes/maps/body language
 - `archive/` — older duplicate per-class files, kept for reference
 
 ### reading/, listening/, speaking/

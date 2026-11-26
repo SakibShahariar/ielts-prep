@@ -14,6 +14,7 @@
 - **Companion** — `ielts-writing-linkers-and-synonyms.md`: linkers by location + adjective/adverb synonyms
 - **Companion** — `ielts-writing-lecture1-handout.md`: Mentors Lecture 1 handout, extracted and upgraded
 - **Companion** — `ielts-writing-lecture2-handout.md`: Mentors Lecture 2 handout, line graphs/tables/data language
+- **Companion** — `ielts-writing-lecture3-handout.md`: Mentors Lecture 3 handout, processes/maps/body language
 
 ---
 
